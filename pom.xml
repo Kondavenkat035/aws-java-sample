@@ -9,7 +9,7 @@
 
     <name>aws-java-sample</name>
     <url>http://aws.amazon.com/sdkforjava</url>
-
+echo 'koti
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     </properties>
